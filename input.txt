@@ -1,0 +1,63 @@
+#include @stdio@.h
+#include  @string@.h
+int main()
+{
+      int x,y,z,k;
+       ;
+      k=10;
+      x=5;
+      y=10;
+      z=x+y;
+
+     if(x>y)
+    {
+       y=z+z;
+     }
+    else
+   {
+      z=5+6;
+   }   
+ 
+ for x 1:5
+  {
+	y+z;
+    
+   }
+do
+ {
+    x+z;
+ }while(k);
+
+power(x,-3);
+power(x,3);
+power(-2,-3);
+printdata(x);
+printdata(x);
+inc x++;
+dec y--;
+if(x>y)?y=500;:x=400;
+printdata(x);
+printdata(y);
+int a;
+a=1;
+printdata(a);
+## i am happy
+!# i am happy 9#!
+
+switch ( a )
+	{
+	case 1 :
+		a + x;
+                break;  
+	~
+	case 2 :
+		y+ a; break;
+	~
+	case 3 : 
+		a + x; break;
+	default :
+		x+ x; break; 
+	}
+
+}
+

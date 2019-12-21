@@ -1,0 +1,49 @@
+
+Valid Declaration
+ assiging value of variable :k= 10	
+ assiging value of variable :x= 5	
+ assiging value of variable :y= 10	
+ assiging value of variable :z= 15	
+ assiging value of variable :y= 30	
+ assiging value of variable :z= 11	
+In else
+Value in for loop
+41
+41
+41
+41
+41
+Value in do while loop
+16
+16
+16
+16
+16
+16
+16
+16
+16
+The value of power function is -0.008000 
+The value of power function is 125.000000 
+The value of power function is -0.125000 
+inside printf functions value is 5 
+inside printf functions value is 5 
+the incremental value of x is= 6
+the decremental value of y is= 29
+ assiging value of variable :y= 500	
+ assiging value of variable :x= 400	
+2nd part is true
+inside printf functions value is 400 
+inside printf functions value is 500 
+
+Valid Declaration
+ assiging value of variable :a= 1	
+inside printf functions value is 1 
+this is single line comment
+this is multiline comment
+in case 1
+in case 2
+in case 3
+
+
+ END MAIN FUNCTION 
